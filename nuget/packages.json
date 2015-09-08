@@ -12,6 +12,6 @@
   {
     "id": "NuGet.Server",
     "url": "http://nugetdev1.blob.core.windows.net/package-metadata/packages/nuget.server/2.7.0.json",
-    "version": "2.7.1"
+    "version": "2.7.0"
   }
 ]
